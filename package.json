@@ -1,0 +1,22 @@
+{
+  "name": "concurrentajax",
+  "version": "1.0.0",
+  "description": "concurrently ajax plugin",
+  "main": "ConcurrentAjax.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VICTORYGS/ConcurrentAjax.git"
+  },
+  "author": "",
+  "keywords": [
+    "concurrent",
+    "ajax"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VICTORYGS/ConcurrentAjax/issues"
+  },
+  "homepage": "https://github.com/VICTORYGS/ConcurrentAjax#readme"
+}
